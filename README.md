@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 26 mins    ████████████████████████▓   98.35 %
-TOML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
