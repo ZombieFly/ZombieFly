@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C             3 hrs 21 mins   ██████████████████████▓░░   90.20 %
+Makefile      10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+INI           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Git Config    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JSON          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
