@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C            9 mins          ████████░░░░░░░░░░░░░░░░░   32.34 %
-JSON         9 mins          ███████▓░░░░░░░░░░░░░░░░░   31.33 %
-Git Config   7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.32 %
-Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
