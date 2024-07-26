@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Git Config   10 mins         ███████████████▓░░░░░░░░░   62.09 %
+Python       6 mins          ████████▓░░░░░░░░░░░░░░░░   34.51 %
+Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
