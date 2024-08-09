@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C            18 hrs 40 mins  ████████████████████████▒   96.79 %
-Python       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
