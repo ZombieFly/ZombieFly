@@ -7,7 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C         12 mins         ████████████████▒░░░░░░░░   65.97 %
+SSH Key   4 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+Other     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+JSON      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
