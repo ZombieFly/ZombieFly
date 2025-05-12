@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C                 2 hrs 35 mins   ████████████▒░░░░░░░░░░░░   49.58 %
-Protocol Buffer   2 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   47.28 %
-XML               7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Makefile          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
