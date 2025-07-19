@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C               1 hr 4 mins     ██████████████▒░░░░░░░░░░   57.12 %
+Objective-C     19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
+Linker Script   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+Git Config      9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Other           7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 ```
 
 <!--END_SECTION:waka-->
