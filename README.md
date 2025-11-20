@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua   1 hr 32 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
