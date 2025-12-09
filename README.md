@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C             2 hrs 5 mins    ███████████████████████▓░   94.30 %
-Objective-C   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-C++           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
