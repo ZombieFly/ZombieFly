@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)   1 min                 ████████████▓░░░░░░░░░░░░   50.29 %
-C             1 min                 ██████████░░░░░░░░░░░░░░░   40.28 %
-Bash          0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
