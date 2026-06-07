@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C               45 mins               █████████████████████░░░░   83.60 %
+Lua             6 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+Linker Script   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Makefile        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Other           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
